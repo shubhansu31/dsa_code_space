@@ -11,5 +11,5 @@ A complete record of all the data structure and algorithm that I've learnt.
 ![GitHub issues](https://img.shields.io/github/issues/shubhansu31/dsa_code_space?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/shubhansu31/dsa_code_space?style=flat-square) ![GitHub Repo stars](https://img.shields.io/github/stars/shubhansu31/dsa_code_space?style=flat-square) ![GitHub watchers](https://img.shields.io/github/watchers/shubhansu31/dsa_code_space?style=flat-square)
 
 ## Index
-> [LEETCODE DAILY CHALLENGE FEBRUARY] (https://github.com/shubhansu31/dsa_code_space/tree/main/LeetCode_Daily/_February)
+> [LEETCODE DAILY CHALLENGE FEBRUARY](https://github.com/shubhansu31/dsa_code_space/tree/main/LeetCode_Daily/_February)
 > [BIT MANIPULATION](https://github.com/shubhansu31/dsa_code_space/tree/main/bit_manipulation)
