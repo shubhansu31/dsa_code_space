@@ -19,7 +19,7 @@ public class Set_a_bit_off {
     mask = ~mask;
 
 
-    //AND of the original number and the new created mask will set the ith bit on
+    //AND of the original number and the new created mask will set the ith bit off
     int result = n & mask ;
     System.out.println(result);
 
